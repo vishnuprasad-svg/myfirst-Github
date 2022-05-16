@@ -1,0 +1,9 @@
+{
+	"name": "df1-warehouse-dev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e2f25809-1947-48f3-9087-3a7ac73e60de",
+		"tenantId": "60149b8a-56c7-487c-aef9-fee75fa3ce0d"
+	}
+}
